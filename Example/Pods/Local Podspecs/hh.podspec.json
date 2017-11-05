@@ -1,0 +1,22 @@
+{
+  "name": "hh",
+  "version": "0.1.0",
+  "summary": "A short description of hh.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ahad11/hh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahad11": "aalarifi64@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ahad11/hh.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "hh/Classes/**/*"
+}

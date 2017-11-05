@@ -1,0 +1,6 @@
+framework module hh {
+  umbrella header "hh-umbrella.h"
+
+  export *
+  module * { export * }
+}
